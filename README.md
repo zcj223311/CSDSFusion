@@ -1,5 +1,5 @@
 # Cross-supervised LiDAR-camera Fusion for 3D Object Detection  
-![image](https://github.com/user-attachments/assets/59d30665-1ec0-428c-9352-6fa7cf19773e)  
+![image](https://github.com/user-attachments/assets/9a6103a8-f615-4f04-838b-c5134368749e)  
 Fusing LiDAR and camera information is essential for achieving accurate and reliable 3D object
 detection in autonomous driving systems. Due to inherent differences between different modalities, seeking
 an efficient and accurate fusion method is of great importance. Recently, significant progress has been
